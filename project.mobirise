@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Flooring Services Ltd",
-    "currentPage": "index.html",
+    "currentPage": "Quote.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -3179,7 +3179,7 @@
         }
       ]
     },
-    "Request_a_quote.html": {
+    "Quote.html": {
       "settings": {
         "meta_descr": "Kiwi Flooring Services Ltd",
         "title": "Request A Quote",
